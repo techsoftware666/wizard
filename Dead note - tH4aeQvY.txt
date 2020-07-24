@@ -1,0 +1,739 @@
+<item>
+<title>[COLOR white][B]Capitulo 1[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1ojjLJMKSUQnJ4Q_6O86jXIULLQHryWRf/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1ojjLJMKSUQnJ4Q_6O86jXIULLQHryWRf/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 2[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1gjQiniM8MDpCKI743L72rrH_99qvsvqf/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1gjQiniM8MDpCKI743L72rrH_99qvsvqf/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 3[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/10xXi7lJycrblyCXzT2KgBdhcVnwVM5s8/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/10xXi7lJycrblyCXzT2KgBdhcVnwVM5s8/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 4[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1o5FNte1PZNqRKPFsBd_IWHMjeKC6Dmka/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1o5FNte1PZNqRKPFsBd_IWHMjeKC6Dmka/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 5[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1-iKIhqeEC-Jpo3eRrqnsmWEuNOhgNo88/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1-iKIhqeEC-Jpo3eRrqnsmWEuNOhgNo88/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 6[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1PYIB0dlM0wKzdBB8t49E1PkvJwk8isOK/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1PYIB0dlM0wKzdBB8t49E1PkvJwk8isOK/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 7[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1iEmw255VU4ormPoJVpnobqOxp9_Pwqxm/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1iEmw255VU4ormPoJVpnobqOxp9_Pwqxm/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 8[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1F2Zd2nF9NMNm5wIF_SfgLTtSBKIyqKJN/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1F2Zd2nF9NMNm5wIF_SfgLTtSBKIyqKJN/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 9[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1qsQ4auMuoaHuMRTDDzUGdWiExzjeXWgP/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1qsQ4auMuoaHuMRTDDzUGdWiExzjeXWgP/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 10[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1EwqImJ-1v3WqpmRhWOVkbuV_XHpCVEgX/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1EwqImJ-1v3WqpmRhWOVkbuV_XHpCVEgX/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 11[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/15rT0jxOx8aMzsB2PAleioYJPeA_oaTbD/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/15rT0jxOx8aMzsB2PAleioYJPeA_oaTbD/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+ 
+<item>
+<title>[COLOR white][B]Capitulo 12[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/18G8dr5qkrd2rsGgh_BWlAE0BB3EddjM7/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/18G8dr5qkrd2rsGgh_BWlAE0BB3EddjM7/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 13[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1gExI5kcwIXcy-V6dZcQyeeen0H80F3xd/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1gExI5kcwIXcy-V6dZcQyeeen0H80F3xd/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 14[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1I0uED2yHmCFq1pbeNlYL3SNKWoOFKfTh/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1I0uED2yHmCFq1pbeNlYL3SNKWoOFKfTh/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 15[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1BfeF9DmG_x7Myp6EiXWjC2OMPaRsIPS-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1BfeF9DmG_x7Myp6EiXWjC2OMPaRsIPS-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 16[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/14OhgeT5bDz96hHOplz5nM5yOAhVU9V0S/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/14OhgeT5bDz96hHOplz5nM5yOAhVU9V0S/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 17[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1DFcLpsSJXvzctAXumhHkzMyzMSCB3XNh/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1DFcLpsSJXvzctAXumhHkzMyzMSCB3XNh/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 18[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1XURIyPZZ5RgapJcG2a5hWx5GEK6HGyx9/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1XURIyPZZ5RgapJcG2a5hWx5GEK6HGyx9/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 19[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1SUsPZ8ZhuUm5dlCBM2ekMpdcXu1gghAY/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1SUsPZ8ZhuUm5dlCBM2ekMpdcXu1gghAY/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 20[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1SnbgmuOT95H5Sgv_w38t2cmQQMfRcFT-/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1SnbgmuOT95H5Sgv_w38t2cmQQMfRcFT-/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 21[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1tcVjTkd_wPUqmdP17uEK9kK04hoJovnv/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1tcVjTkd_wPUqmdP17uEK9kK04hoJovnv/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 22[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1VSY9LNxrAx1r39K1AWjo544rlofSanCf/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1VSY9LNxrAx1r39K1AWjo544rlofSanCf/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 23[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1NQeCkDP-SPTTquBHSLd3Q_KbXDioeK3Z/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1NQeCkDP-SPTTquBHSLd3Q_KbXDioeK3Z/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 24[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1jMY4ErDh4V5rnUIlq_t2qibfdbAfBLnl/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1jMY4ErDh4V5rnUIlq_t2qibfdbAfBLnl/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 25[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/11nqNT6ZIXznj1im7KeSQrvDTeZcEUtMd/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/11nqNT6ZIXznj1im7KeSQrvDTeZcEUtMd/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 26[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1t-i4-u1RLBmmJlksNXzvxcdf7REVPs08/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1t-i4-u1RLBmmJlksNXzvxcdf7REVPs08/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 27[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1RrlqWALlGMdUmfFtkw47Rp_RJg3_XiNF/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1RrlqWALlGMdUmfFtkw47Rp_RJg3_XiNF/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 28[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1e4-3la_51Ofv8ZcXKecClvywlNL10kFa/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1e4-3la_51Ofv8ZcXKecClvywlNL10kFa/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 29[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1teJtCmCiE5oceutDqwRD9lePPHKEZCd1/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1teJtCmCiE5oceutDqwRD9lePPHKEZCd1/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 30[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1fFramvWn70VR6xGorZWljYsH46dPrLp5/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1fFramvWn70VR6xGorZWljYsH46dPrLp5/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 31[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1TQWgPS_0HA5cl_SRkg7jw91g0Ps4uzpx/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1TQWgPS_0HA5cl_SRkg7jw91g0Ps4uzpx/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 32[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1hYxk6JFdZedbvXysV7c0yhFbnNA0r2Vq/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1hYxk6JFdZedbvXysV7c0yhFbnNA0r2Vq/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 33[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1aKVoptT4187BrySrWXshTp_eihUfqxq_/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1aKVoptT4187BrySrWXshTp_eihUfqxq_/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 34[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1J8vIgP-t2C0_6IsV4KAs0bmLqfbXlHp9/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1J8vIgP-t2C0_6IsV4KAs0bmLqfbXlHp9/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 35[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1A8DmdZT2yDtsumXoYAQ7T5CrJbPPwd-I/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1A8DmdZT2yDtsumXoYAQ7T5CrJbPPwd-I/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 36[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1gwXSicFNs_xnpMGxUF8Nblq8p2AbyULe/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1gwXSicFNs_xnpMGxUF8Nblq8p2AbyULe/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
+
+<item>
+<title>[COLOR white][B]Capitulo 37[/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://drive.google.com/file/d/1c-ENGy4cGJ-8ijh6-XNbo6ztL0KaPPIJ/view?usp=sharing'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://drive.google.com/file/d/1c-ENGy4cGJ-8ijh6-XNbo6ztL0KaPPIJ/view?usp=sharing'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<fanart></fanart>      
+<item>
