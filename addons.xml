@@ -2,7 +2,7 @@
 <addons>
   <addon id="plugin.video.IberiKa"
        name="IberiKa"
-       version="0.1.2"
+       version="0.1.9"
        provider-name="DaQueenQueen e Iberika">
   <requires>
     <import addon="plugin.video.youtube" />
